@@ -1,0 +1,5 @@
+Sarfaraz: A, A, A, A
+Hassan: +B, -B, C+, A
+Zeeshan: -A, A, -A, +B
+Tabeed: A, B, +B, +C
+Ashan: A, -A, +B, B
